@@ -1,0 +1,145 @@
+
+✅ 1. Basic Java Concepts
+
+What are the features of Java?
+
+What is the difference between JDK, JRE, and JVM?
+
+Why is Java platform independent?
+
+What is the difference between Java and C++?
+
+What is bytecode in Java?
+
+✅ 2. OOPS Concepts (Very Important)
+
+What are the four pillars of OOP?
+
+Difference between abstraction and encapsulation.
+
+What is inheritance? Types of inheritance in Java.
+
+What is polymorphism? Explain compile-time vs runtime.
+
+What is method overloading vs method overriding?
+
+What is the difference between interface and abstract class?
+
+✅ 3. Data Types and Variables
+
+What are primitive data types in Java?
+
+Difference between int and Integer?
+
+What is a final variable?
+
+✅ 4. Control Statements
+
+Difference between break and continue.
+
+How does switch-case work in Java?
+
+✅ 5. Strings
+
+Difference between String, StringBuffer, and StringBuilder?
+
+Why are Strings immutable in Java?
+
+How to compare two strings in Java?
+
+✅ 6. Arrays and Collections
+
+What is the difference between Array and ArrayList?
+
+What are List, Set, and Map in Java?
+
+Difference between HashSet and TreeSet.
+
+Difference between HashMap and Hashtable.
+
+What is the use of Iterator?
+
+✅ 7. Exception Handling
+
+What is the difference between checked and unchecked exceptions?
+
+Explain try-catch-finally block.
+
+What is the difference between throw and throws?
+
+What is custom exception?
+
+✅ 9. Java Keywords
+
+Use of static, final, this, super, 
+
+✅ 11. Miscellaneous
+
+What is garbage collection in Java?
+
+Difference between == and .equals().
+
+What is constructor overloading?
+
+What is the difference between Heap and Stack memory?
+
+
+🔰 OOPS Concepts – Core Java Interview Questions
+------------------------------------------------
+🔹 General OOPS
+What are the four main principles of OOP?
+
+How is encapsulation implemented in Java?
+
+What is the difference between encapsulation and abstraction?
+
+Can you explain polymorphism with real-life examples?
+
+How is inheritance implemented in Java? What are its types?
+
+What is method overloading? When is it used?
+
+What is method overriding? How does it support runtime polymorphism?
+
+Can a constructor be overridden in Java? Why or why not?
+
+What is the use of the super keyword in inheritance?
+
+What is the difference between this and super?
+
+🔰 Abstraction & Interface – Focus Questions
+---------------------------------------------
+🔹 Abstraction
+What is abstraction in Java?
+
+How is abstraction achieved in Java?
+
+Can we create an object of an abstract class?
+
+Can an abstract class have a constructor?
+
+Can an abstract class have final or static methods?
+
+Can we declare an abstract method without using an abstract class?
+
+🔹 Interface
+What is an interface in Java?
+
+Can an interface have method implementations in Java 8 or later?
+
+Can an interface extend another interface?
+
+Can an interface implement another interface or extend a class?
+
+🔹 Difference Based Questions
+Difference between abstract class and interface?
+
+When would you use an interface over an abstract class?
+
+Can an abstract class implement an interface?
+
+Can a class implement multiple interfaces?
+
+Can an abstract class have both abstract and non-abstract methods?
+
+Can an interface have private methods (Java 9+)?
