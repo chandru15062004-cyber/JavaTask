@@ -28,13 +28,5 @@ public class Addition {
 //		int Multiplication = name.nextInt(a*b);
 //		//int h=(a/b);
 //		int Division = name.nextInt(a/b);
-//
-//	}
-	
-	
-//				
-//		
-//		
-//	}
-//
-//}
+/
+
