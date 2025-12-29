@@ -1,22 +1,13 @@
-package org.comp;
+package org.com;
 
-public class Desktop implements Hardware,SoftWare{
-	public void deskmodel() {
-		System.out.println("sfd");
-	}
-	public void hardwareResuorce() {
-		System.out.println("sfffsf");
-	}
-	public void softwareResuorce() {
-		System.out.println("ajjd");
+public class Desktop extends Computer {
+	public void desktopSize() {
+		System.out.println("15 Inches");
 	}
 	public static void main(String[] args) {
-		Desktop T=new Desktop();
-		T.hardwareResuorce();
-		T.softwareResuorce();
-		T.deskmodel();
-		
+		Desktop D=new Desktop();
+		D.computerMode();
+		D.desktopSize();
 	}
-	
 
 }
