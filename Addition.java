@@ -7,11 +7,12 @@ public class Addition {
 		return a + b;
 	}
 	public static void main(String[] args) {
-		int object = number(454, 55);
-		System.out.println(object);
+		int sum = number(454, 55);
+		System.out.println(sum);
 	}
 }
 	
+
 
 
 
