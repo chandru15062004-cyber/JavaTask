@@ -28,7 +28,8 @@ public class ConstructorChaining {
 					System.out.println("your name is: "+z);
 				}
 	public static void main(String[] args) {
-		Asdf D=new Asdf();
+		ConstructorChaining D=new ConstructorChaining();
 	}
 }
+
 
