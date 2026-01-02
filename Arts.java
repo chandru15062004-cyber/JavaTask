@@ -22,12 +22,13 @@ public class Arts {
 		public static void main(String[] args) {
 			Arts D=new Arts();
 			
-			D.bSc("aa");
-			D.bEd("wer");
-			D.bA("sfnjk");
-			D.bBA("tfutfu");
-			D.ug("add");
-			D.pg("dd");
+			D.bSc("Arts Group 1");
+			D.bEd("Arts Group 2");
+			D.bA("Arts Gruop 3");
+			D.bBA("Arts Group 4");
+			D.ug("Arts Group 5");
+			D.pg("Arts Group 6");
 			
 		}
 }
+
