@@ -1,13 +1,24 @@
 package org.company;
+
 import org.client.Client;
-public class Company extends Client{
-	public void companyName() {
-	System.out.println("WIPRO");
-}
+import org.emp.Employee;
+import org.project.Project;
+
+public class Company {
+	public void compName() {
+		System.out.println("kkk");
+		}
 	public static void main(String[] args) {
-		Company Info=new Company();
-		Info.clientName();
-		Info.companyName();
-		
+		Client e=new Client();
+		e.clientName();
+		Employee d=new Employee();
+		d.empName();
+		Project g=new Project();
+		g.projName();
+		Company f=new Company();
+		f.compName();
 	}
+	
+			
+	
 }
