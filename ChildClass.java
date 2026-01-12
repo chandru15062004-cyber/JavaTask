@@ -5,12 +5,13 @@ public class ChildClass extends ParentClass3{
 		System.out.println("SS");
 	}
 		public static  void main(String[] args) {
-			ChildClass xc=new ChildClass();
-			xc.depart();
-			xc.branch();
-			xc.section();
-			xc.subject();
+			ChildClass child=new ChildClass();
+			child.depart();
+			child.branch();
+			child.section();
+			child.subject();
 			
 		}
 	}
+
 
