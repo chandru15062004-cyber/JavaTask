@@ -1,17 +1,21 @@
 package org.bank;
 
-public class BankInfo extends AxisBank {
-	public void saving() {
-		System.out.println("Current");
+public class BankInfo {
+	public void saving(float money) {
+		
+		System.out.println("Your savings is : "+money);
 	}
-	public void fixed() {
-		System.out.println("0 balance");
+	public void fixed(float money) {
+		System.out.println("Your fixed amount is : "+money);
+	}
+	public void deposit(float money) {
+		System.out.println("Your deposition is : "+money);
 	}
 	public static void main(String[] args) {
-		BankInfo Bank=new BankInfo();
-		Bank.deposit();
-		Bank.fixed();
-		Bank.saving();
+		BankInfo M=new BankInfo();
+		M.saving(1326.1f);
+		M.fixed(45.2f);
+		M.deposit(1000.0f);
 	}
 
 }
