@@ -1,24 +1,13 @@
-package org.collage;
+package org.univ;
 
-public class Collage extends Hostel {
-	public void collageName() {
-		System.out.println("SVPP");
-	}
-	public void collageCode() {
-		System.out.println("SVPCET");
-	}
-	public void collageRank() {
-		System.out.println("100000");
+public class Collage extends University{
+	public void ug(String Name) {
+		super.ug(Name);
 	}
 	public static void main(String[] args) {
-		Collage C=new Collage();
-		C.deptName();
-		C.studentName();
-		C.studentDept();
-		C.collageName();
-		C.collageCode();
-		C.collageRank();
-		
+		Collage A=new Collage();
+		A.ug("wfe");
+		A.pg("fef");
 	}
 
 }
